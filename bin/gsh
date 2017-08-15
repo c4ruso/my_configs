@@ -1,0 +1,2 @@
+git commit -am "generic message"
+git push origin master
