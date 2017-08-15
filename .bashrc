@@ -111,3 +111,7 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# git aliases
+alias gll="git pull origin master"
+alias gsh="git commit -am \"generic message\"&& git push origin master"
