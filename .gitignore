@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.gitattributes
+
+!.emacs
+!.bashrc
+
+!~/bin/gll
+!~/bin/gsh
+!~/linux_setup.sh
